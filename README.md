@@ -6,8 +6,8 @@
 
 - 📖 I’m currently studying *Electronics and Computer Engineering* at *VIT Chennai*
 
-- 🌱 I’m currently learning *Deep Learning*
-
+- 🌱 I’m currently Interning at *Anyware Labs and MultiD*
+  
 - 📧 Ping me at *ksgeetha03@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
